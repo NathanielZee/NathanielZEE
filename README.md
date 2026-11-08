@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Efezino Nathaniel, Lead Engineer at Zevn" width="100%" />
+<img src="./banner.svg" alt="Efezino Nathaniel, Lead Engineer at Zevn" width="100%" />
 
 <p>
   <a href="https://linkedin.com/in/zino-nathaniel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
